@@ -26,7 +26,8 @@ I'm currently managing a Data Analyst team, specializing in building datamarts, 
 ---
 
 ## 📊 **3. GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=linhpi9999&show_icons=true) 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=linhpi9999&show_icons=true&theme=default)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linhpi9999&layout=compact)
 
