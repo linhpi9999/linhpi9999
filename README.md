@@ -31,9 +31,6 @@ I'm currently managing a Data Analyst team, specializing in building datamarts, 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linhpi9999&layout=compact&theme=github_dark&cache_seconds=1800&v=1)
 
-## 📊 GitHub Stats
-
-
 
 ---
 
